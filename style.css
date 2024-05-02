@@ -1,0 +1,87 @@
+#header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.nav-logo-div {
+    width: 350px;
+    
+}
+
+.nav-items{
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+}
+
+#header-img {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+body {
+    background-color: rgb(233, 233, 233);
+}
+
+
+ .title{
+    margin-left: 300px;
+    font-size: xx-large;
+} 
+.input{
+    margin-left: 500px;
+    width: 1100pxpx;
+    height: 20pxpx;
+}
+
+.button{
+    margin-left: 800px;
+}
+
+.fire{
+    margin-left: 500px;
+}
+
+
+.text{
+display: flex;
+flex-direction: column;
+gap: column;
+margin-left: 500px;
+}
+
+.video{
+    margin-left: 500px;
+}
+
+.bottom{
+    display: block;
+    flex-direction: row;
+}
+ 
+.tenor{
+    background-color: rgb(218, 218, 221);
+    border: 2px solid black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+}
+
+.bass{
+    background-color: rgb(205, 201, 201);
+    border: 2px solid black;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+}
+
+.valve{
+    background-color: rgb(226, 226, 226);
+    border: 2px solid black;
+    height: 200px;
+    width: 400px;
+    text-align: center;
+}
